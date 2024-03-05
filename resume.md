@@ -1,9 +1,3 @@
----
-layout: page
-title: Heejeong Kim's Resume
-permalink: /resume/
----
-
 # Heejeong Kim
 **Email:** kimh4@myumanitoba.ca  
 **GitHub:** [Heejoy](https://github.com/Heejoy)  
