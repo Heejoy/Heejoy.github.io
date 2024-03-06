@@ -1,7 +1,7 @@
-theme: jekyll-theme-minimal
+theme: daattali/beautiful-jekyll
 layout: home
 title: Resume
-description: Please view my resume.
+description: Check my README file to see how to host your own resume on Github pages
 author: Heejeong Kim
 published: true
 plugins:
