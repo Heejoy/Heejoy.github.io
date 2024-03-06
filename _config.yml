@@ -1,4 +1,4 @@
-remote_theme: daattali/beautiful-jekyll
+theme: jekyll-theme-minimal
 layout: home
 title: Resume
 description: Check my README file to see how to host your own resume on Github pages
