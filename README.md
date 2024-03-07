@@ -8,7 +8,7 @@ Learn how to craft a resume template using Markdown and style it with Jekyll. Th
 
 - GitHub Account
 - Visual Studio Code installed
-- Your own resume
+- Your resume formatted in Markdown
 
 ## Instructions
 
