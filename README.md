@@ -12,7 +12,7 @@ Learn how to craft a resume template using Markdown and style it with Jekyll. Th
 
 ## Instructions
 
-After you've finished the setup steps listed in the prerequisites section, you are noe ready to start making your resume with Markdown. Let's get started on making a resume using the easy to follow Markdown.
+After you've finished the setup steps listed in the prerequisites section, you are now ready to start making your resume with Markdown. Let's get started on making a resume using the easy to follow Markdown.
 
 ## Create Markdown Resume
 
@@ -71,6 +71,8 @@ Create a new repository by following the prompts on GitHub to initialize and set
 
 * Click on the `Create Repository` button to finish the creation process.  
 
+_This step follows Etter’s emphasis on using distributed version control_
+
 ### 3. **Upload your Markdown resume to your new repository**
 <div style="margin-left: 20px;">
     <img src="https://github.com/Heejoy/Heejoy.github.io/blob/main/Gifs/Add_new_files.gif?raw=true" width="550" height="auto" alt="Add New File">
@@ -88,6 +90,8 @@ Create a new repository by following the prompts on GitHub to initialize and set
     <img src="https://github.com/Heejoy/Heejoy.github.io/blob/main/Gifs/Commit.gif?raw=true" width="550" height="auto" alt="Add New File">
 </div>
 
+_Uploading your resume on GitHub reflects Eater’s emphasis on documentation and communication_
+
 ### 4. **Set up Jekyll for your GitHub Pages site.**
     
 * In your GitHub repository, you need to create a new file named `_config.yml` for Jekyll configuration  
@@ -97,6 +101,8 @@ Create a new repository by following the prompts on GitHub to initialize and set
 <div style="margin-left: 20px;">
     <img src="https://github.com/Heejoy/Heejoy.github.io/blob/main/Gifs/Config.gif?raw=true" width="550" height="auto" alt="Add New File">
 </div>
+
+_This step perfectly encompasses Etter’s bias towards static websites_
 
 
 #### **Specify a theme**
