@@ -12,7 +12,7 @@ Learn how to craft a resume template using Markdown and style it with Jekyll. Th
 
 ## Instructions
 
-After you've finished the setup steps listed in the prerequisites section, you are now ready to start making your resume with Markdown. Let's get started on making a resume using the easy to follow Markdown.
+After you've finished the setup steps listed in the prerequisites section, you are noe ready to start making your resume with Markdown. Let's get started on making a resume using the easy to follow Markdown.
 
 ## Create Markdown Resume
 
@@ -36,7 +36,7 @@ After you've finished the setup steps listed in the prerequisites section, you a
 
 * For help writing in Markdown, refer to [Markdown Tutorial](https://www.markdowntutorial.com/) by [gjtorikian](https://github.com/gjtorikian)
 
-* You can preview your Markdown in Visuual Studio Code
+* You can preview your Markdown in Visual Studio Code
 
 * To use it, right-click in your Markdown Document and select `Open Preview` or use `Ctrl+Shift+V`(`Cmd+Shift+V` on Mac)
 
@@ -61,7 +61,7 @@ Create a new repository by following the prompts on GitHub to initialize and set
 
 * Go to the main page of your account
 
-* Click on the `New repository` button
+* Click on the `New Repository` button
 
 * Name your repository `<username>.github.io`, where `<username>` is your GitHub username
 
@@ -69,7 +69,7 @@ Create a new repository by following the prompts on GitHub to initialize and set
 
 * Initialize the repository with a README, if desired
 
-* Click on the `Create repository` button to finish the creation process.  
+* Click on the `Create Repository` button to finish the creation process.  
 
 ### 3. **Upload your Markdown resume to your new repository**
 <div style="margin-left: 20px;">
@@ -80,7 +80,7 @@ Create a new repository by following the prompts on GitHub to initialize and set
 
 * Drag and drop your Markdown file or use the file explorer to select and upload your resume.
 
-* Make sure your Markdown resume file named as `index.md`
+* Make sure your Markdown resume file is named as `index.md`
 
 * Commit the file to the repository by entering a commit message and clicking on the `Commit changes` button.
 
@@ -101,7 +101,7 @@ Create a new repository by following the prompts on GitHub to initialize and set
 
 #### **Specify a theme**
 
-* You might start with basic settings like the theme. GitHub Pages supports several [Jekyll themes](https://pages.github.com/themes/) that you can specify directly in `_config.yml`
+* You might start with basic settings like the theme. GitHub Pages support several [Jekyll themes](https://pages.github.com/themes/) that you can specify directly in `_config.yml`
 
 * To apply a theme, enter the command `theme: jekyll-theme-THEME-NAME`, substituting `THEME-NAME` with the actual name of the theme in the `_config.yml` file
 
@@ -127,7 +127,7 @@ Create a new repository by following the prompts on GitHub to initialize and set
         "description: Resume for <Name>"
         "author: <Name>"
         ```  
-* Now, commit `_config.yml` to your repository by clicking `Commit Changes` button on the right top corner.
+* Now, commit `_config.yml` to your repository by clicking the `Commit Changes` button on the right top corner.
 <div style="margin-left: 20px;">
     <img src="https://github.com/Heejoy/Heejoy.github.io/blob/main/Gifs/config_commit.gif?raw=true" width="550" height="auto" alt="Add New File">
 </div>
@@ -147,7 +147,7 @@ Create a new repository by following the prompts on GitHub to initialize and set
 ### More Resources  
 Create your own [GitHub](https://github.com/) account  
 Download [Visual Studio Code](https://code.visualstudio.com/)  
-[Check](https://code.visualstudio.com/docs/languages/markdown) more detail about editing Markdown with Visual Studio Code    
+[Check](https://code.visualstudio.com/docs/languages/markdown) more details about editing Markdown with Visual Studio Code    
 Find more variables you can use with [Jekyll](https://jekyllrb.com/docs/variables/)  
 Learn more about [GitHub Pages](https://docs.github.com/en/pages)
 
@@ -163,7 +163,7 @@ Unlike traditional word processors, it saves time by eliminating the need to use
 
 ### Why is my resume not showing up?
 
-If your resume isn't showing on, check the upload format and ensure it meets the site's requirements.   
+If your resume isn't showing, check the upload format and ensure it meets the site's requirements.   
 
 Make sure your profile is fully filled out because missing information might hide your resume.  
 
@@ -171,4 +171,4 @@ If you change your webpage's look, like picking a new theme, it may take a littl
 
 ### Authors and Acknowledgments
 [Heejeong Kim](https://github.com/Heejoy): Author of Resume and  README file  
-[Kevin Tsang](https://github.com/tsangkevin99): Pear editor and Group 7 member
+[Kevin Tsang](https://github.com/tsangkevin99): Pear editor and group 7 member
