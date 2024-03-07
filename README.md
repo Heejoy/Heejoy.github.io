@@ -12,7 +12,7 @@ Learn how to craft a resume template using Markdown and style it with Jekyll. Th
 
 ## Instructions
 
-After you've finished the setup steps listed in the prerequisites section, you are noe ready to start making your resume with Markdown. Let's get started on making a resume using the easy to follow Markdown.
+After you've finished the setup steps listed in the prerequisites section, you are now ready to start making your resume with Markdown. Let's get started on making a resume using the easy to follow Markdown.
 
 ## Create Markdown Resume
 
