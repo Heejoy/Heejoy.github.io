@@ -171,4 +171,4 @@ If you change your webpage's look, like picking a new theme, it may take a littl
 
 ### Authors and Acknowledgments
 [Heejeong Kim](https://github.com/Heejoy): Author of Resume and  README file  
-[Kevin Tsang](https://github.com/tsangkevin99): Pear editor and group 7 member
+[Kevin Tsang](https://github.com/tsangkevin99): Peer editor and group 7 member
