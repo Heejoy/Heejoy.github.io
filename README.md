@@ -10,10 +10,6 @@ Learn how to craft a resume template using Markdown and style it with Jekyll. Th
 - Visual Studio Code installed
 - Your resume formatted in Markdown
 
-## Instructions
-
-After you've finished the setup steps listed in the prerequisites section, you are now ready to start making your resume with Markdown. Let's get started on making a resume using the easy to follow Markdown.
-
 ## Create Markdown Resume
 
 ### 1. **Open your installed Visual Studio Code**
@@ -28,6 +24,10 @@ After you've finished the setup steps listed in the prerequisites section, you a
 * Markdown allows you to format your document with headings, bullet points, links, and more, using simple symbols
 
 * For help writing in Markdown, refer to [Markdown Tutorial](https://www.markdowntutorial.com/) by [gjtorikian](https://github.com/gjtorikian)
+
+## Instructions
+
+After you finish the setup steps listed in the prerequisites section, let's get started on hosting your resume to GitHub Pages.
 
 ## Host Resume on GitHub Pages
 
