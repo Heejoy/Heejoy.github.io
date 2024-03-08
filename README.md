@@ -178,4 +178,5 @@ If you change your webpage's look, like picking a new theme, it may take a littl
 ### Authors and Acknowledgments
 [Heejeong Kim](https://github.com/Heejoy): Author of Resume and  README file  
 [Kevin Tsang](https://github.com/tsangkevin99): Peer editor and Group 7 member  
-[Jonathan Placatka](https://github.com/jonathanplacatka): Peer editor and Group 7 member
+[Jonathan Placatka](https://github.com/jonathanplacatka): Peer editor and Group 7 member  
+[Jekyll minimal template authors](https://github.com/pages-themes/minimal): Contributors to the Jekyll _minimal_ template
