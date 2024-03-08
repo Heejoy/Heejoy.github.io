@@ -71,7 +71,7 @@ _This step follows Etter’s emphasis on using distributed version control_
     <img src="https://github.com/Heejoy/Heejoy.github.io/blob/main/Gifs/Commit.gif?raw=true" width="550" height="auto" alt="Add New File">
 </div>
 
-_Uploading your resume on GitHub reflects Eater’s emphasis on documentation and communication_
+_Uploading your resume on GitHub reflects Etter’s emphasis on documentation and communication. In addition, using Markdown encompases Etter's concepts on using XML-based markup language_
 
 ### 4. **Set up Jekyll for your GitHub Pages site.**
     
@@ -83,7 +83,7 @@ _Uploading your resume on GitHub reflects Eater’s emphasis on documentation an
     <img src="https://github.com/Heejoy/Heejoy.github.io/blob/main/Gifs/Config.gif?raw=true" width="550" height="auto" alt="Add New File">
 </div>
 
-_This step perfectly encompasses Etter’s bias towards static websites_
+_This step encompasses Etter’s bias towards static websites_
 
 
 #### **Specify a theme**
