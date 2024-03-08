@@ -21,32 +21,13 @@ After you've finished the setup steps listed in the prerequisites section, you a
 
 * In the drop-down menu, select `New File` to create a new file
 
-* Click on `File` again, then `Save As`
-
-* A dialog box will ask where to save it and what to name it
-
 * Make sure to end the file name with `.md` to show it's a Markdown file
 
-* For example, name it `<Your Name>Resume.md`
-
 ### 2. **Write your resume in Markdown** 
-* With your new Markdown file open, you can now begin typing your resume based on your own resume in the file you created
 
 * Markdown allows you to format your document with headings, bullet points, links, and more, using simple symbols
 
 * For help writing in Markdown, refer to [Markdown Tutorial](https://www.markdowntutorial.com/) by [gjtorikian](https://github.com/gjtorikian)
-
-* You can preview your Markdown in Visual Studio Code
-
-* To use it, right-click in your Markdown Document and select `Open Preview` or use `Ctrl+Shift+V`(`Cmd+Shift+V` on Mac)
-
-* This will open a side-by-side preview of your document as it will appear when formatted, which is helpful for checking your work as you go 
-
-### 3. **Save your Markdown resume**
-* After you've finished writing your resume, save your work by clicking on `File` -> `Save` or by pressing `Ctrl + S` (`Cmd + S` on Mac)
-
-* Choose where on your computer you want to save it
-
 
 ## Host Resume on GitHub Pages
 
