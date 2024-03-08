@@ -2,7 +2,11 @@
 
 ## Purpose
 
-Learn how to craft a resume template using Markdown and style it with Jekyll. This guide provides step-by-step instructions for hosting your resume on GitHub Pages using Jekyll and composing your resume in Markdown with Visual Studio Code.
+Learn how to craft a resume template using Markdown and style it with Jekyll. This guide provides step-by-step instructions for hosting your resume on GitHub Pages using Jekyll theme. 
+
+Describe the practical steps of how to host and format your resume onto GitHub Pages
+
+Relate the practical steps to the general principles of current Technical Writing, as explained in Andrew Etter's book [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 
 ## Prerequisites
 
